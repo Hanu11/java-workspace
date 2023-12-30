@@ -1,0 +1,13 @@
+currency-conversion URL
+----------------
+http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
+
+currency-conversion with feign
+---------------------
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
+
+currency-exchange
+-------------------
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+https://github.com/in28minutes/spring-microservices-v3/blob/main/03.microservices/01-step-by-step-changes/readme.md#step-13
