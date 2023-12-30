@@ -10,4 +10,11 @@ currency-exchange
 -------------------
 http://localhost:8000/currency-exchange/from/USD/to/INR
 
+Eureka naming server
+--------------------
+http://localhost:8761/
+
+
+Other
+---------------
 https://github.com/in28minutes/spring-microservices-v3/blob/main/03.microservices/01-step-by-step-changes/readme.md#step-13
